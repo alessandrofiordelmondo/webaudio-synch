@@ -22,3 +22,7 @@ Icon[]
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Specific file
+firebaseConfig.js
+serviceAccountKey.json
