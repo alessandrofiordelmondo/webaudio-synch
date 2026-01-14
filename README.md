@@ -8,8 +8,6 @@ Audio synchronisation between web applications both remotely (via Firebase real-
 
 ## Instruction
 
-## Instructions for running the software
-
 ### Server
 
 1. Initialize the server application and install the requirements:
