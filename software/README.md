@@ -1,4 +1,4 @@
-# Softwared
+# Software
 
 - **main**  
   Master application that generates the timecode of an audio playback and sends it to a database (local or remote).
