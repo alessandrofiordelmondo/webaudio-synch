@@ -4,7 +4,7 @@ Project settings -> General -> your apps -> add web app -> copy firebaseConfig h
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import { getDatabase, ref, get, child } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js";
-import { firebaseConfig } from "./firebase-config.js";
+import { firebaseConfig } from "./firbaseConfig.js";
 
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
